@@ -20,6 +20,6 @@ Solve 4 Problems of TLE Sheet
 - Q3. [Serval and Mocha's Array](https://codeforces.com/contest/1789/submission/287623461)
 - Q4. [Make it Beautiful](https://codeforces.com/contest/1783/submission/287626165) <br>
 
-- I gave Contest on CodeForces [Round 981 Div 3](https://codeforces.com/contest/2033/my) <br>
-  Solve 2 Problems
-  
+- I gave Contest on CodeForces Round 981 Div 3 <br>
+  Problem 1 : [Sakurako and Kosuke](https://codeforces.com/contest/2033/submission/287762301) <br>
+  Problem 2 : [Sakurako and Water](https://codeforces.com/contest/2033/submission/287690431) <br>
