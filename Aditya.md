@@ -27,6 +27,7 @@ Solve 4 Problems of TLE Sheet
 ### Day 3
 25 October 2024
 
-- In the morning, I watched a lecture on Maps and Sets from PW and upsolved yesterday's Codeforces contest. <br>
-  I spent 6 hours at the hospital today and tested positive for typhoid, so I wasn't able to study. <br>
+- I spent 6 hours at the hospital today and tested positive for typhoid, so I only able to study few things. <br>
+  I watched a lecture on Maps and Sets from PW and upsolved yesterday's Codeforces contest. <br>
+  
 
