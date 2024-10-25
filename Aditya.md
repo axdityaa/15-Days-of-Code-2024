@@ -23,3 +23,10 @@ Solve 4 Problems of TLE Sheet
 - I gave Contest on CodeForces Round 981 Div 3 <br>
   Problem 1 : [Sakurako and Kosuke](https://codeforces.com/contest/2033/submission/287762301) <br>
   Problem 2 : [Sakurako and Water](https://codeforces.com/contest/2033/submission/287690431) <br>
+
+### Day 3
+25 October 2024
+
+- In the morning, I watched a lecture on Maps and Sets from PW and upsolved yesterday's Codeforces contest. <br>
+  I spent 6 hours at the hospital today and tested positive for typhoid, so I wasn't able to study. <br>
+
