@@ -29,5 +29,12 @@ Solve 4 Problems of TLE Sheet
 
 - I spent 6 hours at the hospital today and tested positive for typhoid, so I only able to study few things. <br>
   I watched a lecture on Maps and Sets from PW and upsolved yesterday's Codeforces contest. <br>
-  
 
+### Day 4
+26 October 2024
+
+- I gave contest on CodeForces Round 982(Div.2)<br>
+  Problem 1 : [Rectangle Arrangement](https://codeforces.com/contest/2027/submission/288120196)<br>
+- Solve 2 problems of TLE 31 Sheet <br>
+  Q1. [Mainak and Array](https://codeforces.com/contest/1726/submission/288017159)<br>
+  Q2. [NIT Destroys the Universe](https://codeforces.com/contest/1696/submission/288018450)<br>
