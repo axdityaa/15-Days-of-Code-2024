@@ -38,3 +38,14 @@ Solve 4 Problems of TLE Sheet
 - Solve 2 problems of TLE 31 Sheet <br>
   Q1. [Mainak and Array](https://codeforces.com/contest/1726/submission/288017159)<br>
   Q2. [NIT Destroys the Universe](https://codeforces.com/contest/1696/submission/288018450)<br>
+
+### Day 5
+27 October 2024
+
+- I gave contest on CodeForces Global Round 27(Div.2)<br>
+Problem 1 : [Sliding](https://codeforces.com/contest/2035/submission/288313251)<br>
+Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission/288333994)<br>
+- Solve 3 Problems of TLE 31 Sheet <br>
+  Q1. [AvtoBus](https://codeforces.com/contest/1679/submission/288271720)<br>
+  Q2. [Make It Increasing](https://codeforces.com/contest/1675/submission/288274715)<br>
+  Q3. [Deletive Editing](https://codeforces.com/contest/1666/submission/288280674)<br>
