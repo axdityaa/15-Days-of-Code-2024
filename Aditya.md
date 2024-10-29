@@ -52,11 +52,22 @@ Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission
 
 ### Day 6
 28 October 2024
+
 - Upsolve the Yesterdays CodeForces Contest <br>
 - Solve 4 Problems on TLE 31 Sheet <br>
   Q1. [Array Cloning Technique](https://codeforces.com/contest/1665/submission/288450726)<br>
   Q2. [Make AP](https://codeforces.com/contest/1624/submission/288454773)<br>
   Q3. [Odd Grasshopper](https://codeforces.com/contest/1607/submission/288459372)<br>
   Q4. [AB Balance](https://codeforces.com/contest/1606/submission/288463602)<br>
-  
+
+### Day 7
+29 October 2024
+
+- Solve 4 Problems from TLE 31 Sheet <br>
+  Q1. [Make it Divisible by 25](https://codeforces.com/contest/1593/submission/288669475)<br>
+  Q2. [Luntik and Subsequences](https://codeforces.com/contest/1582/submission/288674136)<br>
+  Q3. [Bad Boy](https://codeforces.com/contest/1537/submission/288704225)<br>
+  Q4. [Odd Divisor](https://codeforces.com/contest/1475/submission/288705436)<br>
+
+- Watched 9th Lecture of DP Playlist from Striver<br>
   
