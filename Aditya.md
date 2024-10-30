@@ -71,3 +71,14 @@ Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission
 
 - Watched 9th Lecture of DP Playlist from Striver<br>
   
+### Day 8
+30 October 2024
+
+- Solve 3 Problems from TLE 31 Sheet <br>
+  Q1. [Strange Partition](https://codeforces.com/contest/1471/submission/288869108)<br>
+  Q2. [Sum of Medians](https://codeforces.com/contest/1440/submission/288905549)<br>
+  Q3. [Three Indices](https://codeforces.com/contest/1380/submission/288912444)<br>
+
+- I gave Contest on CodeChef [START158](https://www.codechef.com/START158D?order=desc&sortBy=successful_submissions) <br>
+  Solve 4 Problems of Div 4<br>
+  
