@@ -81,4 +81,16 @@ Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission
 
 - I gave Contest on CodeChef [START158](https://www.codechef.com/START158D?order=desc&sortBy=successful_submissions) <br>
   Solve 4 Problems of Div 4<br>
-  
+
+### Day 9
+31 October 2024
+
+- Solve 4 Problems from TLE 31 Sheet <br>
+  Q1. [01 Game](https://codeforces.com/problemset/submission/1373/289004334)<br>
+  Q2. [Multiply by 2, divide by 6](https://codeforces.com/problemset/submission/1374/289005325)<br>
+  Q3. [Swap and Delete](https://codeforces.com/problemset/submission/1913/289033818)<br>
+  Q4. [Raspberries](https://codeforces.com/problemset/submission/1883/289039953)<br>
+
+- Upsolve Yesterdays Codechef Contest's Questions <br>
+  Q1.XOR Smaller <br>
+  Q2.Buying Game<br>
