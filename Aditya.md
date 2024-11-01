@@ -94,3 +94,14 @@ Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission
 - Upsolve Yesterdays Codechef Contest's Questions <br>
   Q1.XOR Smaller <br>
   Q2.Buying Game<br>
+
+### Day 10
+1 November 2024
+
+- Solve 2 Problems from TLE 31 Sheet<br>
+  Q1. [Helmets in Night Light](https://codeforces.com/contest/1876/submission/289248300)<br>
+  Q2. [Olya and Game with Arrays](https://codeforces.com/contest/1859/submission/289286633)<br>
+
+- Watched 10th Lecture of DP Playlist from Striver<br>
+  Solved Quesion -> Minimum Path Sum <br>
+  I am unable to participate in today's Codeforces contest because of Lakshmipujan at Home. <br>
