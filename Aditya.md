@@ -106,3 +106,15 @@ Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission
 - Watched 10th Lecture of DP Playlist from Striver<br>
   Solved Quesion -> Minimum Path Sum <br>
   I am unable to participate in today's Codeforces contest because of Lakshmipujan at Home. <br>
+
+### Day 11
+2 November 2024
+
+- Upsolve Yesterdays Codeforces Contests Questions<br>
+  Q1. [Circuit](https://codeforces.com/problemset/submission/2032/289373200)<br>
+  Q2. [Medians](https://codeforces.com/problemset/submission/2032/289400953)<br>
+  Q3. [Trinity](https://codeforces.com/problemset/submission/2032/289410710)<br>
+
+- Solve a TLE 31 sheet Question<br>
+Q1. [Ski Resort](https://codeforces.com/problemset/submission/1840/289416750)<br>
+  I am unable to participate in today's Codeforces contest because of Family Gathering at Home. <br> 
