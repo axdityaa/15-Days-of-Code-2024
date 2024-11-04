@@ -133,3 +133,4 @@ Q1. [Ski Resort](https://codeforces.com/problemset/submission/1840/289416750)<br
   Q3. [I Wanna Be the Guy](https://codeforces.com/contest/469/submission/289966935)<br>
   Q4. [Petya and Strings](https://codeforces.com/contest/112/submission/289968653)<br>
 
+  Watched Hashmaps Lecture-78 of Love Babbar DSA Playlist .<br>
