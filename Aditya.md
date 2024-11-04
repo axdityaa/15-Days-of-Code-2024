@@ -117,4 +117,19 @@ Problem 2 : [Everyone Loves Tres](https://codeforces.com/contest/2035/submission
 
 - Solve a TLE 31 sheet Question<br>
 Q1. [Ski Resort](https://codeforces.com/problemset/submission/1840/289416750)<br>
-  I am unable to participate in today's Codeforces contest because of Family Gathering at Home. <br> 
+  I am unable to participate in today's Codeforces contest because of Family Gathering at Home. <br>
+
+### Day 12
+4 November 2024
+
+- I was unable to update my GitHub yesterday as I was traveling back to college from home.<br>
+- Upsolve Codeforces Round 984 (Div. 3) Questions <br>
+  Q1. [Quintomania](https://codeforces.com/contest/2036/submission/289952928)<br>
+  Q2. [Startup](https://codeforces.com/contest/2036/submission/289965977)<br>
+
+- Solve 4 Problems on Codeforces<br>
+  Q1. [Football](https://codeforces.com/contest/96/submission/289971061)<br>
+  Q2. [George and Accommodation](https://codeforces.com/contest/467/submission/289967419)<br>
+  Q3. [I Wanna Be the Guy](https://codeforces.com/contest/469/submission/289966935)<br>
+  Q4. [Petya and Strings](https://codeforces.com/contest/112/submission/289968653)<br>
+
