@@ -134,3 +134,14 @@ Q1. [Ski Resort](https://codeforces.com/problemset/submission/1840/289416750)<br
   Q4. [Petya and Strings](https://codeforces.com/contest/112/submission/289968653)<br>
 
   Watched Hashmaps Lecture-78 of Love Babbar DSA Playlist .<br>
+
+### Day 13
+5 November 2024
+
+- Solve 6 Problems on Codeforces<br>
+  Q1. [Array merging](https://codeforces.com/problemset/submission/1831/290123178)<br>
+  Q2. [Minimal Square](https://codeforces.com/problemset/submission/1360/290125280)<br>
+  Q3. [Distinct Split](https://codeforces.com/problemset/submission/1791/290130390)<br>
+  Q4. [Boy or Girl](https://codeforces.com/problemset/submission/236/290126337)<br>
+  Q5. [Traffic Light](https://codeforces.com/problemset/submission/1744/290142065)<br>
+  Q6. [Minimum LCM](https://codeforces.com/problemset/submission/1765/290137249)<br>
