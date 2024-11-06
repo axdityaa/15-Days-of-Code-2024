@@ -151,11 +151,11 @@ Q1. [Ski Resort](https://codeforces.com/problemset/submission/1840/289416750)<br
 
 - I gave Contest on CodeChef [START159](https://www.codechef.com/START159C?order=desc&sortBy=successful_submissions) <br>
   Solve 2 Problems of Div 3<br>
-  Q1. Card Game <br>
-  Q2. Elections <br>
+  Q1. [Card Game](https://www.codechef.com/viewsolution/1104496722) <br>
+  Q2. [Elections](https://www.codechef.com/viewsolution/1104555718) <br>
 - Upsolve This Contest Questions <br>
-  Q1. Super Hero <br>
-  Q2. Chess Colouring <br>
+  Q1. [Super Hero](https://www.codechef.com/viewsolution/1104769658) <br>
+  Q2. [Chess Colouring](https://www.codechef.com/viewsolution/1104770350) <br>
 - Solve 2 Problems on Codeforces <br>
   Q1. [Find K Distinct Points with Fixed Center](https://codeforces.com/contest/1998/submission/290294592)<br>
   Q2. [Guess the Maximum](https://codeforces.com/contest/1979/submission/290294695)<br>
