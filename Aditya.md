@@ -163,3 +163,13 @@ Q1. [Ski Resort](https://codeforces.com/problemset/submission/1840/289416750)<br
   Watched STL from LUV <br>
      -> Binary Exponentiation <br>
      -> Modular Multiplicative Inverse <br>
+
+### Day 15
+7 November 2024
+
+- Solve 5 Problems on Codeforces <br>
+  Q1. [A+B Again?](https://codeforces.com/contest/1999/submission/290468205)<br>
+  Q2. [Beautiful Array](https://codeforces.com/contest/1715/submission/290468041)<br>
+  Q3. [Sasha and the Drawing](https://codeforces.com/contest/1929/submission/290468269)<br>
+  Q4. [Primary Task](https://codeforces.com/contest/2000/submission/290438234)<br>
+  Q5. [Basketball Together](https://codeforces.com/contest/1725/submission/290443107)<br>
